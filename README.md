@@ -201,7 +201,7 @@ zip -r quicksight-backup.zip boto3/ requests/ urllib3/ certifi/ charset_normaliz
 
 ### Sample Output
 ```
-Starting QuickSight dashboard backup for account: 517444948157
+Starting QuickSight dashboard backup for account: 123456789012
 Found 5 dashboards to backup
 Phase 1: Starting export jobs with limited concurrency (max 3)...
 [1/5] Starting export: Sales management table by department
