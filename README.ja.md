@@ -49,7 +49,7 @@ AWS QuickSight ダッシュボードをアセットバンドルとして自動�
 
 1. リポジトリをクローン:
 ```bash
-git clone https://github.com/ishikawa-satoru-classmethod/quicksight-backup-tool.git
+git clone https://github.com/ishikawa-satoru-classmethod/quicksight-dashboard-backup.git
 cd quicksight-dashboard-backup
 ```
 

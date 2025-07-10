@@ -49,7 +49,7 @@ A Python tool for automatically backing up AWS QuickSight dashboards as asset bu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ishikawa-satoru-classmethod/quicksight-backup-tool.git
+git clone https://github.com/ishikawa-satoru-classmethod/quicksight-dashboard-backup.git
 cd quicksight-dashboard-backup
 ```
 
